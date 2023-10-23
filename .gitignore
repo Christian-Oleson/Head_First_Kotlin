@@ -25,3 +25,7 @@ replay_pid*
 
 # Jetbrains
 .idea*
+**/4.8/**
+**/8.4**
+**/.gradle/**
+**/build/**
